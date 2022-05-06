@@ -8,4 +8,8 @@ public class DemoTwoo {
 
 		System.out.println("Random code");
 	}
+	
+	public void add (int a , int b) {
+		System.out.println(a+b);
+	}
 }
