@@ -6,5 +6,6 @@ public class DemoTwoo {
 		
 		System.out.println("Git demo 2...");
 
+		System.out.println("Random code");
 	}
 }
