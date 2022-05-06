@@ -9,6 +9,8 @@ public class DemoTwoo {
 		System.out.println("Random code");
 		
 		System.out.println("Random Code 2");
+		
+		System.out.println("Random Code 3");
 	}
 	
 	public void add (int a , int b) {
